@@ -1,0 +1,34 @@
+---
+title: "HW 03 - Sad Plots"
+subtitle: ""
+author: "YOUR NAME HERE"
+date: "due October 20, 11:59 PM"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    number_section: false
+    highlight: tango
+    theme: "cosmo"
+link-citations: yes
+---
+
+# Load Packages
+
+```{r load-packages}
+
+``` 
+
+# Load Data
+
+```{r load-data}
+
+```
+
+
+# Exercise 1
+
+```{r ex-1}
+```
+
+...
